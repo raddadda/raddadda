@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-007054?style=flat&logo=java&logoColor=white"/>
 
-<!--
-**raddadda/raddadda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>🧷소규모 사업장 관리 프로젝트 바로가기</h1>
+http://albaon.store
 
-Here are some ideas to get you started:
+<h1>🧷채팅웹서비스 프로젝트 바로가기</h1>
+https://github.com/raddadda/chatta/tree/develop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>📄이력서 포트폴리오 링크</h1>
+https://web-react-resume4-euegqv2blnvbcqlo.sel5.cloudtype.app/
