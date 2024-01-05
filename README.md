@@ -9,8 +9,7 @@
 <h1>🧷소규모 사업장 관리 프로젝트 바로가기</h1>
 http://albaon.store (사이트)
 https://github.com/kangseokjooo/Albabackend (깃허브)
-
-https://github.com/kangseokjooo/Albabackend (포트폴리오)
+https://github.com/kangseokjooo/Albabackend (노션 포트폴리오)
 
 <h1>🧷채팅웹서비스 프로젝트 바로가기</h1>
 https://github.com/raddadda/chatta/tree/develop (깃허브)
