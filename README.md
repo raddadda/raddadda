@@ -1,16 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90" />
 
 //<img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-007054?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/#232F3E?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/EC2-007054?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/RDS-007054?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/S3-007054?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazonaws-#232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazons3-#569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazonrds-#527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
+
 
 <h1>🧷소규모 사업장 관리 프로젝트 바로가기</h1>
 http://albaon.store (사이트) <br></br>
