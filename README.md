@@ -5,9 +5,9 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/amazonec2-#232F3E?style=flat-square&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/amazons3-#569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/amazonrds-#527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazonec2-232F3E?style=flat-square&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazons3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
 
 
 <h1>🧷소규모 사업장 관리 프로젝트 바로가기</h1>
