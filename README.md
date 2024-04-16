@@ -15,7 +15,8 @@ https://sharp-mollusk-0b5.notion.site/227d2d2386254755b74e2f2056947d6e?pvs=4 (�
 <h1>🧷채팅웹서비스 프로젝트 바로가기</h1>
 https://github.com/raddadda/chatta/tree/develop (깃허브)
 
-<h1>코딩테스트 공부 바로가기</h1>
+<h1>🧷코딩테스트 공부중..</h1>
 https://github.com/raddadda/codingtest_prac/tree/main/bin
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raddadda&show_icons=true&theme=radical)
 
