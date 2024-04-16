@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/amazonec2-232F3E?style=for-the-bedge&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/amazons3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/amazonec2-3670A0?style=for-the-badge&logo=amazonec2&logoColor=ffdd54"/>
 
 <h1>🧷소규모 사업장 관리 프로젝트 바로가기</h1>
 http://albaon.store (사이트) <br></br>
