@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요%20World!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90" />
 
 <h3 align="center"><b>📚 기술 스택 📚</b></h3>
 </br>
