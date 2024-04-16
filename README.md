@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90" />
 
-
-<img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=for-the-badge&logo=SpringBoot-&logoColor=white">
-
+//<img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
